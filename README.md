@@ -1,8 +1,8 @@
 
-
 # 📚 Library Management System
 
-[![Build Status](https://github.com/Vrindamodi/Library-Management-System/actions/workflows/ant.yml/badge.svg)](https://github.com/Vrindamodi/Library-Management-System/actions/workflows/ant.yml)
+[![Java CI with Ant](https://github.com/Vrindamodi/Library-Management-System/actions/workflows/ant.yml/badge.svg)](https://github.com/Vrindamodi/Library-Management-System/actions/workflows/ant.yml)
+
 
 
 This is a Java desktop application built to simplify and automate common library operations. Instead of maintaining manual registers, the system provides a digital interface that makes managing books, users, and transactions easier and more reliable.
