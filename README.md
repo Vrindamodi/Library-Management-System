@@ -16,9 +16,13 @@ Authentication: secure login and database protection
 🛠️ Tech Stack
 
 Java (Swing, AWT) for the application interface
+
 MySQL for database storage (via JDBC)
+
 Apache NetBeans as the development environment
+
 Ant (build.xml) for build automation
+
 Runs on Windows 10+
 
 ⚙️ Setup Instructions:
