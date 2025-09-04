@@ -28,18 +28,29 @@ Runs on Windows 10+
 ⚙️ Setup Instructions:
 
 Clone the repository
+
 git clone https://github.com/your-username/Library-Management-System.git
+
 cd Library-Management-System
+
 Set up the database
+
 Create a MySQL database (example: lms_db)
+
 Import the provided SQL file:
 mysql -u root -p lms_db < db.sql
 Configure in NetBeans
+
 Open the project in NetBeans
+
 Add the MySQL JDBC driver (lib/mysql-connector.jar) if required
+
 Update database username and password in the code
+
 Run the application
+
 Launch directly from NetBeans
+
 Or execute the batch file:
 run_library_management_system.bat
 
