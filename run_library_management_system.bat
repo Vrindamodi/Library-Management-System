@@ -1,0 +1,1 @@
+java -cp .\lib\lib\RSCalendar.jar;.\lib\lib\RSConnector.jar;.\lib\lib\RSJCalendar.jar;.\lib\lib\RSTableMetro.jar;.\lib\CopyLibs\org-netbeans-modules-java-j2seproject-copylibstask.jar;.\dist\LibraryManagementSystem.jar jframe.LoginPage
