@@ -23,7 +23,7 @@ cd Library-Management-System
 Set up the database
 Create a MySQL database (example: lms_db)
 Import the provided SQL file:
-mysql -u root -p lms_db < lms_db.sql
+mysql -u root -p lms_db < db.sql
 Configure in NetBeans
 Open the project in NetBeans
 Add the MySQL JDBC driver (lib/mysql-connector.jar) if required
