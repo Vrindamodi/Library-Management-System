@@ -20,5 +20,8 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
-    - name: Compile with Ant
-      run: ant -noinput -buildfile build.xml compile
+    - name: Force Java 17 and Compile with Ant
+      run: |
+        export JAVA_HOME=$JAVA_HOME_17_X64
+        export PATH=$JAVA_HOME/bin:$PATH
+        ant -noinput -buildfile build.xml compile
